@@ -1,0 +1,7 @@
+id,section,row,column,year,material,isTracking
+1,The Ridge,1,1,2014,COPPER_INDIUM_GALLIUM_SELENIDE,true
+2,Flats,2,3,2018,CADMIUM_TELLURIDE,false
+3,Treeline,2,5,2020,CADMIUM_TELLURIDE,false
+4,The Ridge,1,4,2020,CADMIUM_TELLURIDE,false
+5,Flats,2020,0,0,CADMIUM_TELLURIDE,false
+6,Treeline,10,5,2023,CADMIUM_TELLURIDE,true
